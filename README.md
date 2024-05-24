@@ -2,7 +2,7 @@
 ETL PROJECT
 Instructions
 
-In this projecy we used Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, we created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, we upload the CSV file data into a Postgres database.
+In this project we used Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, we created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, we upload the CSV file data into a Postgres database.
 
 Using the following starter code and files:
 https://static.bc-edx.com/data/dl-1-2/m13/lms/starter/Starter_Files.zip
